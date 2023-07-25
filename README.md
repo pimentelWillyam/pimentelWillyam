@@ -1,5 +1,5 @@
-<div>
-  <h1 align="center">Olá, me chamo Willyam 🤝</h1>
+<div align="center">
+  <h1 >Olá, me chamo Willyam 🤝</h1>
   <br/>
   <br/>
   <p>
@@ -10,7 +10,7 @@
   <h1></h1>
 </div>
 
-<div>
+<div align="center">
   <br/>
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=pimentelWillyam&theme=dracula&hide_border=false)
@@ -55,14 +55,16 @@
   <br/>
 </div>
 
-<div> 
-  <p>
+<div align="right"> 
   <br/>
   <br/>
     
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/BTRwk7JR) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/willyam-pimentel-7aa24b284) 
-  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/WillyamPimentel) 
-  
-  </p>
+  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/WillyamPimentel)
+  ![](https://komarev.com/ghpvc/?username=pimentelWillyam)
 </div>
+
+
+  
+  

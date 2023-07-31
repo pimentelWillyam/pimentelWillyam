@@ -3,8 +3,8 @@
   <br/>
   <br/>
   <p>
-    🔭 Atualmente estou trabalhando em um RPG medieval de combate baseado em turnos </br>
-    🌱 Atualmente estou aprendendo TDD e Clean Architecture                         </br>
+    🔭 Estou trabalhando em um RPG medieval de combate baseado em turnos </br>
+    🌱 Estou aprendendo TDD e Clean Architecture                         </br>
     💬 Me pergunte sobre Node.js, História ou Teologia                              </br>
   </p>
   <h1></h1>

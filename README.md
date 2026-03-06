@@ -3,8 +3,11 @@
 # Olá, me chamo Willyam 🤝
 
 🔭 Atualmente estou desenvolvendo um **RPG medieval de combate baseado em turnos**
+<br/>
 🌱 Estudando **Design Patterns, Arquitetura Modular e Inteligência Artificial**
+<br/>
 📚 Interesses pessoais: **Teologia e História Militar, Xadrez e RICING**
+<br/>
 
 </div>
 

@@ -68,7 +68,7 @@
 
 ---
 
-# 🤖 AI e Machine Learning
+# 🤖 IA
 
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge\&logo=ollama\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge\&logo=pytorch\&logoColor=white)

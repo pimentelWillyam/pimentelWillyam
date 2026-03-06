@@ -53,7 +53,7 @@
 
 ---
 
-# 🗄️ Databases
+# 🗄️ Bancos de Dados
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
@@ -63,35 +63,34 @@
 
 # 🧩 ORM 
 
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge\&logo=typeorm\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ---
 
 # 🤖 AI e Machine Learning
 
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge\&logo=ollama\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![Diffusers](https://img.shields.io/badge/diffusers-000000?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/transformers-FFD21E?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge\&logo=langchain\&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge\&logo=ollama\&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
 ---
 
-# ⚙️ Dev Tools
+# 💻 Sistemas Operacionais
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+# ⚙️ Outras Ferramentas
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge\&logo=yarn\&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-%23DE5FE9.svg?style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
----
-
-# 💻 Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 

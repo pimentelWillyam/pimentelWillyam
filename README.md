@@ -70,11 +70,6 @@
 # 🤖 IA
 
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge\&logo=ollama\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Diffusers](https://img.shields.io/badge/diffusers-000000?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/transformers-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge\&logo=langchain\&logoColor=white)
-
 ---
 
 # 💻 Sistemas Operacionais
@@ -96,4 +91,4 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.gg/BTRwk7JR)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/willyam-pimentel-7aa24b284)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/willyam-pimentel-b47646422/)
